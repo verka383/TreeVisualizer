@@ -1,0 +1,10 @@
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe.config
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.pdb
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Form1.resources
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Properties.Resources.resources
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.GenerateResource.Cache
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.exe
+C:\Users\VSk\Documents\Visual Studio 2017\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.pdb
